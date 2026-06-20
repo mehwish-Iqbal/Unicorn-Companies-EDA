@@ -37,10 +37,15 @@ Source: [Unicorn Companies Dataset](https://drive.google.com/file/d/1QJf93hPKyHR
 ---
 ## Tools & Technologies
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
 
 ---

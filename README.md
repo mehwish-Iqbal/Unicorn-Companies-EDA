@@ -86,60 +86,60 @@ The following visualizations were created to identify trends and patterns in the
 
 This visualization shows the number of years companies took to achieve unicorn status.
 
-![Time Taken to Become Unicorn](images/01_max_years_taken_to_become_unicorn.png)
+![Time Taken to Become Unicorn](Images/01_time_taken_to_become_unicorn.png)
 
 
 ### 2. Maximum Valuation per Industry
 
 This chart compares the maximum valuation of unicorn companies across different industries.
 
-![Maximum Valuation per Industry](images/02_max_valuation_per_industry.png)
+![Maximum Valuation per Industry](Images/02_max_valuation_per_industry.png)
 
 
 ### 3. Number of Companies Founded Each Year
 
 This visualization shows the yearly distribution of unicorn company foundations.
 
-![Companies Founded Each Year](images/03_companies_founded_each_year.png)
+![Companies Founded Each Year](Images/03_companies_founded_each_year.png)
 
 
 ### 4. Unicorn Companies by Month
 
 This chart shows the number of companies that achieved unicorn status by month.
 
-![Unicorn Status by Month](images/04_unicorn_status_by_month.png)
+![Unicorn Status by Month](Images/04_unicorn_status_by_month.png)
 
 
 ### 5. Unicorn Companies by Quarter (2021)
 
 This visualization identifies the quarter in which the highest number of companies became unicorns in 2021.
 
-![Unicorn Companies by Quarter 2021](images/05_unicorn_companies_by_quarter_2021.png)
+![Unicorn Companies by Quarter 2021](Images/05_unicorn_companies_by_quarter_2021.png)
 
 
 ### 6. Average Valuation by Quarter (2020–2021)
 
 This chart compares average company valuations across quarters for 2020 and 2021.
 
-![Average Valuation by Quarter](images/06_average_valuation_quarters_2020_2021.png)
+![Average Valuation by Quarter](Images/06_average_valuation_by_quarters_2020_2021.png)
 
 
 ### 7. Years to Become Unicorn by Month Joined
 
 This visualization explores the relationship between joining month and time required to become a unicorn.
 
-![Years to Become Unicorn by Month](images/07_years_to_become_unicorn_by_month.png)
+![Years to Become Unicorn by Month](Images/07_years_to_become_unicorn_by_month_joined.png)
 
 
 ### 8. Time Founded vs Time to Become Unicorn
 
 This bar plot shows the relationship between founding year and the time required to become a unicorn.
 
-![Time Founded vs Time to Unicorn](images/08_time_founded_vs_time_to_unicorn.png)
+![Time Founded vs Time to Unicorn](Images/08_time_founded_vs_time_to_become_unicorn.png)
 
 
 ### 9. Average Valuation Over the Quarters (2020–2021)
 
 This visualization compares valuation trends across quarters over time.
 
-![Average Valuation Over Quarters](images/09_average_valuation_over_quarters.png)
+![Average Valuation Over Quarters](Images/09_average_valuation_over_quarters_2020_2021.png)

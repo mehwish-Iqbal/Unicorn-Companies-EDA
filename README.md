@@ -62,13 +62,21 @@ The following analyses were conducted to explore trends and patterns in the unic
 ---
 ## images
 ├── 01_max_years_taken_to_become_unicorn.png
+
 ├── 02_max_valuation_per_industry.png
+
 ├── 03_companies_founded_each_year.png
+
 ├── 04_unicorn_status_by_month.png
+
 ├── 05_unicorn_companies_by_quarter_2021.png
+
 ├── 06_average_valuation_quarters_2020_2021.png
+
 ├── 07_years_to_become_unicorn_by_month.png
+
 ├── 08_time_founded_vs_time_to_unicorn.png
+
 └── 09_average_valuation_over_quarters.png
 ## Visualizations
 

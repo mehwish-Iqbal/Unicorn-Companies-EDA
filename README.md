@@ -36,17 +36,17 @@ Source: [Unicorn Companies Dataset](https://drive.google.com/file/d/1QJf93hPKyHR
 * **Select Investors** – Key investors associated with the company
 ---
 ## Tools & Technologies
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 ---
 ## Data Cleaning

@@ -102,6 +102,11 @@ This visualization shows the number of years companies took to achieve unicorn s
 
 ![Time Taken to Become Unicorn](Images/01_time_taken_to_become_unicorn.png)
 
+#####  insights
+- Consumer and transporation companies became the unicorn within 1-2 years after launching
+- Fintech and Health companies took the longest to become an unicorn
+
+---
 
 ### 2. Maximum Valuation per Industry
 
@@ -109,13 +114,19 @@ This chart compares the maximum valuation of unicorn companies across different 
 
 ![Maximum Valuation per Industry](Images/02_max_valuation_per_industry.png)
 
-
+####  insights
+- AI company has the highest valuation
+- Retail and transporation companies have the lowest valuation even after reaching the unicorn status earliest
+---
 ### 3. Number of Companies Founded Each Year
 
 This visualization shows the yearly distribution of unicorn company foundations.
 
 ![Companies Founded Each Year](Images/03_companies_founded_each_year.png)
 
+#### Insights
+- Most comapanies were found in the year 2015 and 2016
+- The histogram is left skewed because most of the companies were founded after 2005
 
 ### 4. Unicorn Companies by Month
 
@@ -130,6 +141,9 @@ This visualization identifies the quarter in which the highest number of compani
 
 ![Unicorn Companies by Quarter 2021](Images/05_unicorn_companies_by_quarter_2021.png)
 
+#### Insights
+- Q2 (2021) has the highest number of unicorn companies
+---
 
 ### 6. Average Valuation by Quarter (2020–2021)
 
@@ -137,13 +151,18 @@ This chart compares average company valuations across quarters for 2020 and 2021
 
 ![Average Valuation by Quarter](Images/06_average_valuation_by_quarters_2020_2021.png)
 
-
+### Insights
+- It is clear that the average valuation of the unicorn companies in the year 2020 was higher in every quarter
+---
 ### 7. Years to Become Unicorn by Month Joined
 
 This visualization explores the relationship between joining month and time required to become a unicorn.
 
 ![Years to Become Unicorn by Month](Images/07_years_to_become_unicorn_by_month_joined.png)
 
+### Insights
+- Median values for Sepetember and October are the least
+---
 
 ### 8. Time Founded vs Time to Become Unicorn
 
@@ -151,9 +170,18 @@ This bar plot shows the relationship between founding year and the time required
 
 ![Time Founded vs Time to Unicorn](Images/08_time_founded_vs_time_to_become_unicorn.png)
 
+### Insights
+- With the passage of time, on average, companies are taking less time to reach unicorn status. \ Note: This is a bias that is common in time data—because companies founded in later years have been around for less time. Therefore, there is less time to collect data on such companies compared to companies founded in earlier years).
+ ---
 
 ### 9. Average Valuation Over the Quarters (2020–2021)
 
 This visualization compares valuation trends across quarters over time.
 
 ![Average Valuation Over Quarters](Images/09_average_valuation_over_quarters_2020_2021.png)
+
+### Insights
+- In each quarter, the average valuation of each company that became unicorn was higher in 2020 than in 2021
+- In 2020, Q3 had the highest average valuation. There was an uptrend in average valuation from Q1 to Q3
+- In 2021, Q1 had the highest average valuation. The average valuation was in a downtrend from Q1 to Q4
+- --

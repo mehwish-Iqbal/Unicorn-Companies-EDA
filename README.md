@@ -1,4 +1,22 @@
 # 🦄 Unicorn Companies Exploratory Data Analysis (EDA)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Dataset Information](#dataset-information)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Visualizations](#visualizations)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+- [Contact](#contact)
+
+---
 ## Introduction
 
 In this project, I explore a dataset of unicorn companies to identify trends, patterns, and insights that can help investment firms make informed investment decisions. Through exploratory data analysis (EDA), I examine company valuations, founding years, industries, geographic distribution, and the time required for companies to achieve unicorn status. The goal is to uncover factors associated with high-growth companies and provide data-driven insights for potential investment opportunities.
@@ -18,11 +36,11 @@ This project analyzes a dataset of 1,074 unicorn companies using Python, Pandas,
 ## Dataset Information
 
 The dataset contains information on 1,074 unicorn companies from various countries and industries around the world. It includes details related to company valuation, founding year, funding, industry classification, geographic location, and the date each company achieved unicorn status.
-## Dataset
+#### Dataset
 
 Source: [Unicorn Companies Dataset](https://drive.google.com/file/d/1QJf93hPKyHRaUe-CuA4wJsK7JcThxuX9/view?usp=drive_link)
 
-### Features
+  #### Features
 
 * **Company** – Name of the unicorn company
 * **Valuation** – Company's estimated valuation
@@ -88,8 +106,7 @@ The following analyses were conducted to explore trends and patterns in the unic
 - [8. Time Founded vs Time to Become Unicorn](#8-time-founded-vs-time-to-become-unicorn)
 - [9. Average Valuation Over the Quarters (2020–2021)](#9-average-valuation-over-the-quarters-20202021)
 
----
-## Visualizations
+
 
 The following visualizations were created to identify trends and patterns in the unicorn companies dataset:
 
@@ -99,7 +116,7 @@ This visualization shows the number of years companies took to achieve unicorn s
 
 ![Time Taken to Become Unicorn](Images/01_time_taken_to_become_unicorn.png)
 
-#####  insights
+#### insights
 - Consumer and transporation companies became the unicorn within 1-2 years after launching
 - Fintech and Health companies took the longest to become an unicorn
 
@@ -114,7 +131,9 @@ This chart compares the maximum valuation of unicorn companies across different 
 ####  insights
 - AI company has the highest valuation
 - Retail and transporation companies have the lowest valuation even after reaching the unicorn status earliest
+
 ---
+
 ### 3. Number of Companies Founded Each Year
 
 This visualization shows the yearly distribution of unicorn company foundations.
@@ -125,12 +144,14 @@ This visualization shows the yearly distribution of unicorn company foundations.
 - Most comapanies were found in the year 2015 and 2016
 - The histogram is left skewed because most of the companies were founded after 2005
 
+---
 ### 4. Unicorn Companies by Month
 
 This chart shows the number of companies that achieved unicorn status by month.
 
 ![Unicorn Status by Month](Images/04_unicorn_status_by_month.png)
 
+---
 
 ### 5. Unicorn Companies by Quarter (2021)
 
@@ -140,6 +161,7 @@ This visualization identifies the quarter in which the highest number of compani
 
 #### Insights
 - Q2 (2021) has the highest number of unicorn companies
+
 ---
 
 ### 6. Average Valuation by Quarter (2020–2021)
@@ -150,7 +172,9 @@ This chart compares average company valuations across quarters for 2020 and 2021
 
 ### Insights
 - It is clear that the average valuation of the unicorn companies in the year 2020 was higher in every quarter
+
 ---
+
 ### 7. Years to Become Unicorn by Month Joined
 
 This visualization explores the relationship between joining month and time required to become a unicorn.
@@ -159,6 +183,7 @@ This visualization explores the relationship between joining month and time requ
 
 ### Insights
 - Median values for Sepetember and October are the least
+
 ---
 
 ### 8. Time Founded vs Time to Become Unicorn
@@ -169,6 +194,7 @@ This bar plot shows the relationship between founding year and the time required
 
 ### Insights
 - With the passage of time, on average, companies are taking less time to reach unicorn status. \ Note: This is a bias that is common in time data—because companies founded in later years have been around for less time. Therefore, there is less time to collect data on such companies compared to companies founded in earlier years).
+ 
  ---
 
 ### 9. Average Valuation Over the Quarters (2020–2021)
@@ -181,6 +207,8 @@ This visualization compares valuation trends across quarters over time.
 - In each quarter, the average valuation of each company that became unicorn was higher in 2020 than in 2021
 - In 2020, Q3 had the highest average valuation. There was an uptrend in average valuation from Q1 to Q3
 - In 2021, Q1 had the highest average valuation. The average valuation was in a downtrend from Q1 to Q4
+
+
 - --
 
 ## Key Findings
@@ -192,6 +220,7 @@ This visualization compares valuation trends across quarters over time.
 - Companies that achieved unicorn status in September and October generally took less time to become unicorns.
 - The average valuation of companies that joined in 2021 was highest in the first quarter of the year.
 - The average valuation of companies that joined in 2020 was highest in the third quarter of the year.
+
 - --
 
 ## Recommendations
@@ -226,20 +255,7 @@ Aspiring Data Analyst
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mehwish-iqbal-2584b3395)
 - GitHub: [Your GitHub Profile]()
 
-  # Unicorn Companies Exploratory Data Analysis (EDA)
+---
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Objectives](#objectives)
-- [Dataset Information](#dataset-information)
-- [Tools & Technologies](#tools--technologies)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Visualizations](#visualizations)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Conclusion](#conclusion)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
-- [Contact](#contact)
+

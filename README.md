@@ -261,8 +261,8 @@ Aspiring Data Analyst
 
   ## Contact
 
-- LinkedIn: [my LinkedIn Profile](www.linkedin.com/in/mehwish-iqbal-2584b3395)
-- GitHub: [my GitHub Profile](https://github.com/mehwish-Iqbal/data-analyst-portfolio.git)
+- LinkedIn: (www.linkedin.com/in/mehwish-iqbal-2584b3395)
+- GitHub: (https://github.com/mehwish-Iqbal/data-analyst-portfolio.git)
 
 
 

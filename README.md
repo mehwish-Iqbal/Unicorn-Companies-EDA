@@ -238,6 +238,7 @@ Based on the analysis, the following recommendations can be made:
 This exploratory data analysis examined trends among 1,074 unicorn companies, focusing on company growth, valuation, industry performance, and the time required to achieve unicorn status. The findings revealed notable patterns in unicorn formation, industry dominance, and valuation trends across different periods. These insights can support data-driven investment decisions and provide a foundation for further analysis of high-growth companies.
 
 ---
+
 ## Future Improvements
 
 - Analyze unicorn companies by country and region.
@@ -245,6 +246,7 @@ This exploratory data analysis examined trends among 1,074 unicorn companies, fo
 - Build an interactive dashboard using Tableau or Power BI.
 - Perform predictive analysis to identify potential future unicorn companies.
 
+---
 
 ## Author
 

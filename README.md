@@ -185,3 +185,64 @@ This visualization compares valuation trends across quarters over time.
 - In 2020, Q3 had the highest average valuation. There was an uptrend in average valuation from Q1 to Q3
 - In 2021, Q1 had the highest average valuation. The average valuation was in a downtrend from Q1 to Q4
 - --
+
+## Key Findings
+
+- The dataset contains 1,074 unicorn companies.
+- 2015 had the highest number of companies founded.
+- Many unicorn companies founded in 2021 were based in the United States.
+- Fintech, E-commerce & Direct-to-Consumer, and Internet Software & Services were among the leading industries for unicorn companies founded in 2021.
+- Companies that achieved unicorn status in September and October generally took less time to become unicorns.
+- The average valuation of companies that joined in 2021 was highest in the first quarter of the year.
+- The average valuation of companies that joined in 2020 was highest in the third quarter of the year.
+- --
+
+## Recommendations
+
+Based on the analysis, the following recommendations can be made:
+
+- Investors should closely monitor companies operating in Fintech, E-commerce & Direct-to-Consumer, and Internet Software & Services industries.
+- Companies demonstrating rapid growth and reaching unicorn status in a shorter time period may present attractive investment opportunities.
+- Quarter-wise valuation trends should be considered when evaluating newly emerging unicorn companies.
+- Additional analysis can be conducted to identify industry-specific and region-specific investment opportunities.
+- --
+
+## Conclusion
+
+This exploratory data analysis examined trends among 1,074 unicorn companies, focusing on company growth, valuation, industry performance, and the time required to achieve unicorn status. The findings revealed notable patterns in unicorn formation, industry dominance, and valuation trends across different periods. These insights can support data-driven investment decisions and provide a foundation for further analysis of high-growth companies.
+
+---
+
+## Author
+
+**Mehwish Iqbal**
+
+Aspiring Data Analyst
+
+- Python
+- SQL
+- Data Analytics
+- Data Visualization
+
+  ## Contact
+
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mehwish-iqbal-2584b3395)
+- GitHub: [Your GitHub Profile]()
+
+  # Unicorn Companies Exploratory Data Analysis (EDA)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Dataset Information](#dataset-information)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Visualizations](#visualizations)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+- [Contact](#contact)

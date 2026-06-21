@@ -74,24 +74,21 @@ The following analyses were conducted to explore trends and patterns in the unic
 8. Investigated the relationship between founding time and the time taken to achieve unicorn status.
 
 ---
-## images
-├── 01_max_years_taken_to_become_unicorn.png
+## Visualizations
 
-├── 02_max_valuation_per_industry.png
+### Contents
 
-├── 03_companies_founded_each_year.png
+- [1. Time Taken by Companies to Become Unicorn](#1-time-taken-by-companies-to-become-unicorn)
+- [2. Maximum Valuation per Industry](#2-maximum-valuation-per-industry)
+- [3. Number of Companies Founded Each Year](#3-number-of-companies-founded-each-year)
+- [4. Unicorn Companies by Month](#4-unicorn-companies-by-month)
+- [5. Unicorn Companies by Quarter (2021)](#5-unicorn-companies-by-quarter-2021)
+- [6. Average Valuation by Quarters (2020–2021)](#6-average-valuation-by-quarters-20202021)
+- [7. Years to Become Unicorn by Month Joined](#7-years-to-become-unicorn-by-month-joined)
+- [8. Time Founded vs Time to Become Unicorn](#8-time-founded-vs-time-to-become-unicorn)
+- [9. Average Valuation Over the Quarters (2020–2021)](#9-average-valuation-over-the-quarters-20202021)
 
-├── 04_unicorn_status_by_month.png
-
-├── 05_unicorn_companies_by_quarter_2021.png
-
-├── 06_average_valuation_quarters_2020_2021.png
-
-├── 07_years_to_become_unicorn_by_month.png
-
-├── 08_time_founded_vs_time_to_unicorn.png
-
-└── 09_average_valuation_over_quarters.png
+---
 ## Visualizations
 
 The following visualizations were created to identify trends and patterns in the unicorn companies dataset:
